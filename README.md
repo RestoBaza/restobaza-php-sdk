@@ -10,5 +10,5 @@ See more info and RestoBaza API documentation here:  [http://developers.restobaz
 
 The live demo web site that uses RestoBaza PHP SDK is here:  [http://restobazademo.ivankd.ru](http://restobazademo.ivankd.ru)
 
-You can download this demo site [here](https://github.com/ivankd/restobazademo).
+You can download this demo site [here](https://github.com/ivankd/restobaza-demo).
 
