@@ -1,0 +1,4 @@
+*.komodoproject
+.komodotools/
+Thumbs.db
+deleted_code.php
